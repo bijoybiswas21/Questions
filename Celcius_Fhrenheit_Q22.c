@@ -1,9 +1,9 @@
-//Implement a C program to convert Celsius to Fahrenheit and vice versa, besed on user input
+//Implement a C program to convert Celsius to Fahrenheit and vice versa,besed on user input
 //Celcius to Frahanat 
 #include<stdio.h>  
     int main()   
    {   
-     float fahrenheit, celsius;  
+     float fahrenheit,celsius;  
      printf("Enter A celsius Num:- ");
      scanf("%f",&celsius);
      fahrenheit =( (celsius*9)/5)+32;  
